@@ -60,7 +60,7 @@
         "postcss-nth-list": "^1.0.2"
     },
     "devDependencies": {
-        "@babel/core": "^7.25.2",
+        "@babel/core": "^7.29.6",
         "@babel/eslint-parser": "^7.25.1",
         "@babel/plugin-proposal-decorators": "^7.24.7",
         "@ember/optional-features": "^2.1.0",
@@ -117,7 +117,7 @@
         "inter-ui": "^3.19.3",
         "loader.js": "^4.7.0",
         "normalize.css": "^8.0.1",
-        "postcss": "^8.4.41",
+        "postcss": "^8.5.23",
         "postcss-conditionals-renewed": "^1.0.0",
         "postcss-each": "^1.1.0",
         "postcss-import": "14.1.0",
